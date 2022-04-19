@@ -1,5 +1,5 @@
 #  Tercera  Semana FrontEnd CSS
-Se desea dar solución a la siguiente prácti:
+Se desea dar solución a la siguiente práctica:
 -  Planeación de campaña de vacunación 
 -  Maquetación del sitio con HTML
 -  Estilos con CSS
